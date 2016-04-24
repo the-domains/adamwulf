@@ -1,0 +1,28 @@
+name: Adam Wulf
+favicon: null
+layout_spectrum: 0.016888774000108242
+typography_spectrum: 0.3463848999235779
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.1370851246174425
+  lightness: 0.7371513042598963
+  saturation: 0.6149449618533254
+  rhythmicContrast: 0.6513710296712816
+purpose: []
