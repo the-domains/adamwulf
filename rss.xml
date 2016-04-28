@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Adam Wulf]]></title>
+        <description><![CDATA[Adam Wulf]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 28 Apr 2016 03:20:27 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Open Source]]></title>
+            <description><![CDATA[<p>These three custom UIGestureRecognizers and related sample app show how easy it is to create realistic and intuitive stretch effects to your UIViews. These gestures show three different ways to calculate stretch transforms for any view, each giving a unique effect. </p>]]></description>
+            <link>undefinedopen-source/index.html</link>
+            <guid isPermaLink="false">8e642562-76b9-4f0b-a71e-494a92d41fb3</guid>
+            <pubDate>Thu, 28 Apr 2016 03:20:26 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
